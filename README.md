@@ -44,6 +44,7 @@ After the files are copied, the EXE will be registered in the run-key of the use
 ## Testing
 
 To make sure, that the package was successfully installed, log off and then log in again and check if you have the Syntaro Application Management Icon in your traybar.
+![TraybarIcon](https://github.com/baseVISION/SyntaroUserCommunication/blob/master/Pictures/Traybar.png)
 
 
 If you do, load the basescript as a module into a powershell and create a user notification.
@@ -55,7 +56,7 @@ Import-Module "C:\Scripts\baseScript.ps1"
 Invoke-GenericUserMessage -title "Intalling Application" -message "We are currently installing your application please stand by"
 ```
 If a pop-up windows, with the defined title and message appears, the package was installed successfully.
-Insert Picture
+![PopUpWindows](https://github.com/baseVISION/SyntaroUserCommunication/blob/master/Pictures/Traybar.png)
 
 ## Details
 For more details, visit the [Syntaro Wiki](https://wiki.syntaro.com/index.php?title=Application_Management_Module#User_Notifications)
