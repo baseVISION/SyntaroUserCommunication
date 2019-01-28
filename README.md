@@ -56,7 +56,7 @@ Import-Module "C:\Scripts\baseScript.ps1"
 Invoke-GenericUserMessage -title "Intalling Application" -message "We are currently installing your application please stand by"
 ```
 If a pop-up windows, with the defined title and message appears, the package was installed successfully.
-![PopUpWindows](https://github.com/baseVISION/SyntaroUserCommunication/blob/master/Pictures/Traybar.png)
+![PopUpWindows](https://github.com/baseVISION/SyntaroUserCommunication/blob/master/Pictures/Syntaro.Appmanagement.UserCommunication_OcCjlob7c7.png)
 
 ## Details
 For more details, visit the [Syntaro Wiki](https://wiki.syntaro.com/index.php?title=Application_Management_Module#User_Notifications)
