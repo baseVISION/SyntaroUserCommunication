@@ -2,7 +2,7 @@
 
 This tool allows to show pop-up notifications from the system context to the user desktop during an application installation with the Syntaro Applicatoin Management module. There were three new functions added to the BaseScript, which can be used to send the following messages:
 
-- Generic messages to inform user
+- Generic messages to inform the user
 - Process messages to tell the user to close an application
 - Postpone messages to ask the user if the application can be installed now or if he wants to postpone it to a later time
 
