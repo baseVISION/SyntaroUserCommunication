@@ -1,6 +1,6 @@
 # User Communication Engine for Syntaro Application Management
 
-This tool allows to show pop-up notifications from the system context to the user desktop during an application installation with the Syntaro Application Management module. There were three new functions added to the BaseScript, which can be used to send the following messages:
+This tool allows to show pop-up notifications from the system context to the user desktop during an application installation with the Syntaro [Application Management](https://www.syntaro.com/module/appmanager/) module. There were three new functions added to the BaseScript, which can be used to send the following messages:
 
 - Generic messages to inform the user
 - Process messages to tell the user to close an application
