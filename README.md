@@ -67,7 +67,7 @@ For more details, visit the [Syntaro Wiki](https://wiki.syntaro.com/index.php?ti
 
 ## Authors
 
-* **Athiraiyan Kugaseelan*** - *Initial work* - [baseVision AG](https://basevision.ch)
+* **Athiraiyan Kugaseelan** - *Initial work* - [baseVision AG](https://basevision.ch)
 
 ## License
 
